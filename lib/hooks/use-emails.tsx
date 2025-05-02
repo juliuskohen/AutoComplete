@@ -28,8 +28,8 @@ export const EmailsProvider = ({ children }: { children: ReactNode }) => {
     body: string;
   }) => {
     const email = {
-      from: "me",
-      to: "John Doe <john@acme.com>",
+      from: "CELL",
+      to: "AI",
       body,
       timestamp: new Date().toISOString(),
     };
