@@ -9,7 +9,7 @@ export function EmailThread() {
       <div className="flex h-full w-full flex-col">
         <header className="border-b px-6 py-4">
           <h2 className="text-2xl font-semibold">
-            Email Thread: Project Kickoff Meeting
+            CELL: AUTOCOMPLETE
           </h2>
         </header>
         <div className="flex flex-1">
