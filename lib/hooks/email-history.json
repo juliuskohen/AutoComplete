@@ -1,20 +1,20 @@
 [
   {
     "timestamp": "2024-02-12T11:00:00",
-    "from": "me",
-    "to": "John Doe <john@acme.com>",
-    "body": "Hi John, what was the outcome of the call with SpaceY?"
+    "from": "CELL",
+    "to": "AI",
+    "body": "I would like to get the average revenue per month for all the active users. Make sure that the users spent at least 1 hour on the platform. "
   },
   {
     "timestamp": "2024-02-14T12:00:00",
-    "from": "John Doe <john@acme.com>",
-    "to": "me",
-    "body": "Thanks for reminding me! Albert from SpaceY is excited to continue. First, we'll build their landing page."
+    "from": "AI>",
+    "to": "CELL",
+    "body": "Sure, there was only one user who spent more than 1 hour on the platform: Julius Cohen and Stephen Hawkin. Do you want me to analyze them? "
   },
   {
     "timestamp": "2024-01-14T14:00:00",
-    "from": "John Doe <john@acme.com>",
-    "to": "me",
-    "body": "Forgot to mention, they really liked your proposed technology stack. They'd also like to add some AI features."
+    "from": "CELL",
+    "to": "AI",
+    "body": "NO. I now want you to give me the names of people who spent between 55 - 60 minutes! "
   }
 ]
